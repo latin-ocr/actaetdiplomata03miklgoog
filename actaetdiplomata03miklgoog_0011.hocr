@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./actaetdiplomata03miklgoog_0011.png"; bbox 0 0 3182 5264; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 518 4619 1235 4691">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 518 4619 1235 4691">
+     <span class='ocr_line' id='line_1_1' title="bbox 518 4619 1235 4691; baseline -0.004 -17"><span class='ocrx_word' id='word_1_1' title='bbox 518 4619 600 4675; x_wconf 80' lang='lat' dir='ltr'>Huius</span> <span class='ocrx_word' id='word_1_2' title='bbox 619 4619 677 4674; x_wconf 75' lang='lat' dir='ltr'>libr!</span> <span class='ocrx_word' id='word_1_3' title='bbox 696 4619 830 4691; x_wconf 67' lang='lat' dir='ltr'>exscripta</span> <span class='ocrx_word' id='word_1_4' title='bbox 849 4623 910 4676; x_wconf 77' lang='lat' dir='ltr'><strong>sunt</strong></span> <span class='ocrx_word' id='word_1_5' title='bbox 928 4619 1089 4691; x_wconf 74' lang='lat' dir='ltr'>exemplnn&#39;a</span> <span class='ocrx_word' id='word_1_6' title='bbox 1108 4623 1235 4675; x_wconf 71' lang='lat' dir='ltr'><strong>trecenta.</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 0 0 1596 5264">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 0 0 1596 5264">
+     <span class='ocr_line' id='line_1_2' title="bbox 0 0 1596 5264; baseline 0 0"><span class='ocrx_word' id='word_1_7' title='bbox 0 0 1596 5264; x_wconf 95' lang='lat' dir='ltr'><strong> </strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
